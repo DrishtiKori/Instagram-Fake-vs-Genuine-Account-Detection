@@ -1,4 +1,6 @@
 # Instagram Fake Account Detection using Machine Learning
+  <img src="figures/instagram.png" >
+
 
 ## Project Overview
 
